@@ -1,0 +1,3 @@
+#!D:\Course5i MLops Practice Project\Movie Recommendation System\NetFlix Movie Recommendation System\.virtualenv\Recomendation_System\Scripts\python.exe
+from numba.pycc import main
+main()
